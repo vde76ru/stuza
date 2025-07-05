@@ -1,0 +1,102 @@
+{
+  "client/src/main.css": {
+    "file": "assets/main-e3021474.css",
+    "src": "client/src/main.css"
+  },
+  "client/src/main.js": {
+    "css": [
+      "assets/main-e3021474.css"
+    ],
+    "dynamicImports": [
+      "client/src/pages/Home.vue",
+      "client/src/pages/Catalog.vue",
+      "client/src/pages/Product.vue",
+      "client/src/pages/Quiz.vue",
+      "client/src/pages/AdminLogin.vue",
+      "client/src/pages/AdminPanel.vue",
+      "client/src/pages/ProductCreate.vue",
+      "client/src/pages/NotFound.vue"
+    ],
+    "file": "assets/main-df5ed99e.js",
+    "isEntry": true,
+    "src": "client/src/main.js"
+  },
+  "client/src/pages/AdminLogin.vue": {
+    "file": "assets/AdminLogin-e2b6d1bf.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/AdminLogin.vue"
+  },
+  "client/src/pages/AdminPanel.vue": {
+    "file": "assets/AdminPanel-a0018712.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/AdminPanel.vue"
+  },
+  "client/src/pages/Catalog.css": {
+    "file": "assets/Catalog-50c60aaf.css",
+    "src": "client/src/pages/Catalog.css"
+  },
+  "client/src/pages/Catalog.vue": {
+    "css": [
+      "assets/Catalog-50c60aaf.css"
+    ],
+    "file": "assets/Catalog-5df5e56b.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/Catalog.vue"
+  },
+  "client/src/pages/Home.css": {
+    "file": "assets/Home-4467b770.css",
+    "src": "client/src/pages/Home.css"
+  },
+  "client/src/pages/Home.vue": {
+    "css": [
+      "assets/Home-4467b770.css"
+    ],
+    "file": "assets/Home-9c7d2717.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/Home.vue"
+  },
+  "client/src/pages/NotFound.vue": {
+    "file": "assets/NotFound-c0e58011.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/NotFound.vue"
+  },
+  "client/src/pages/Product.vue": {
+    "file": "assets/Product-33f18613.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/Product.vue"
+  },
+  "client/src/pages/ProductCreate.vue": {
+    "file": "assets/ProductCreate-fbcded11.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/ProductCreate.vue"
+  },
+  "client/src/pages/Quiz.vue": {
+    "file": "assets/Quiz-464dadcd.js",
+    "imports": [
+      "client/src/main.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "client/src/pages/Quiz.vue"
+  }
+}
